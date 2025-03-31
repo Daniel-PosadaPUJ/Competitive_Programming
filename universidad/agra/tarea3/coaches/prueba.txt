@@ -1,0 +1,31 @@
+1
+12 17
+Pirlo 1979
+Cristiano-Ronaldo 1985
+Capello 1946
+Invernizzi 1931
+Rocco 1912
+Mouri˜ no 1963
+Xabi-Alonso 1981
+Trapattoni 1939
+Zlatan 1981
+Wirtz 2003
+Sacchi 1946
+Ancelotti 1959
+Capello Pirlo
+Pirlo Cristiano-Ronaldo
+Capello Cristiano-Ronaldo
+Mouri˜ no Cristiano-Ronaldo
+Ancelotti Cristiano-Ronaldo
+Xabi-Alonso Wirtz
+Ancelotti Zlatan
+Invernizzi Trapattoni
+Rocco Trapattoni
+Invernizzi Sacchi
+Ancelotti Xabi-Alonso
+Mouri˜ no Zlatan
+Capello Ancelotti
+Sacchi Ancelotti
+Trapattoni Ancelotti
+Trapattoni Sacchi
+Rocco Capello
